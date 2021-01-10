@@ -1,3 +1,2 @@
 # gitlearning
-
-<embed src="gpr_test.pdf" type="application/pdf"   height="700px" width="500">
+![](bo_test-1.png)
